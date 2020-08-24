@@ -3,11 +3,7 @@
 #include <time.h>
 
 //variables globales para calcular
-//comparativa rojovsnegro
-//cantidad de numeros rojos o negros seguidos
-//cuantas veces salio cero o multiplos de 10
-//mayor apuesta
-//numero primo
+
 int apuestastotalesRojo = 0, apuestastotalesNegro = 0,
     numerosseguidosRojo = 0, numerosseguidosNegro = 0,
     banderaseguidosRojo = 0, banderaseguidosNegro = 0,
