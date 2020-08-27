@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+//
 //variables globales para calcular
 
 int apuestastotalesRojo = 0, apuestastotalesNegro = 0,
